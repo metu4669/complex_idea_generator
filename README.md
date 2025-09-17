@@ -46,6 +46,7 @@ This project demonstrates **modern frontend and backend skills**, including **AP
 ---
 
 ## 📁 Project Structure
+```bash
 complex_idea_generator/
 │
 ├─ src/
@@ -60,7 +61,7 @@ complex_idea_generator/
 │
 ├─ package.json
 └─ README.md
-
+```
 ---
 
 ## ⚡ How It Works
